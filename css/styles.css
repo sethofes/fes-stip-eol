@@ -1,0 +1,56 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #e6e6e6;
+}
+
+h1 {
+  padding: 0px;
+  margin: 0 0 1 0em;
+}
+
+h2 {
+  padding: 0px;
+  margin: 0 0 0.5 0em;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 6em;
+}
+
+.image {
+  padding: 1rem;
+}
+
+.text {
+  padding: 1rem;
+  width: 50%;
+  flex-grow: 2;
+}
+
+.important {
+  color: #cc0000;
+}
+
+@media only screen and (max-width: 1400px) {
+  .content {
+    flex-direction: column-reverse;
+  }
+  .text {
+    width: 95%;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .content {
+    padding: 1em;
+  }
+  .image,
+  img {
+    width: 100%;
+    height: auto;
+    padding: 0 0 1 1rem;
+  }
+}
