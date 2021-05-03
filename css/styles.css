@@ -15,7 +15,6 @@ h2 {
 
 .content {
   padding: 6em;
-
 }
 
 .flc {
@@ -55,16 +54,17 @@ table td, table td * {
   .text {
     width: 95%;
   }
+  
 }
 
 @media only screen and (max-width: 900px) {
-  .flc {
-    padding: 1em;
-  }
   .image,
   img {
     width: 100%;
     height: auto;
     padding: 0 0 1 1rem;
+  }
+  .content {
+    padding: 1em;
   }
 }
