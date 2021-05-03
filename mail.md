@@ -40,7 +40,7 @@ Eure Mailinglisten könnt ihr zukünftig über [fes-ehemalige.de](https://www.fe
 
 ---
 
-## Entlastung des Ehemaligenverein von Admin-Aufgaben
+# Entlastung des Ehemaligenverein von Admin-Aufgaben
 Für den Ehemaligenverein ist der Start des Community Portals eine deutliche Entlastung. Der von ehrenamtlichem Engagement getragene Verein wird künftig nicht mehr technisch anspruchsvolle Tools, wie beispielsweise die Anmeldung für die stipendiatischen Seminare auf fes-stip, bereitstellen müssen, da dies nun von der FES selbst übernommen und über fes-social abgewickelt wird.
 
 Das erlaubt es dem FES-Ehemalige e.V. sich auf die Projekte der sich ehrenamtlich engagierenden Ehemaligen zu konzentrieren. So wird auch die Website fes-ehemalige.de, wie gehabt, in eigener Verantwortung des Ehemaligenvereins weitergeführt werden. Dort werden auch künftig alle Informationen zum Ehemaligenverein und seinen Projekten zu finden sein. Ebenso werden dort weiterhin die Anmeldung für die großen Veranstaltungen des Ehemaligenvereins wie das WiederSehen, den Perspektiventag etc. möglich sein und die Abonnements der regionalen und thematischen Mailing-Listen verwaltet werden können.
