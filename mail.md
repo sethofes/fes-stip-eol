@@ -12,10 +12,10 @@ Weiterhin vollständig erhalten und in Verantwortung vom eigenständigen Verein 
 * die Mailinglisten (bis auf weiteres)
 * interne Tools wie z.B. das Redmine-Projektmanagement-Tool
 
-Alle Stipis werden aufgefordert bis zur Abschaltung Ihre Daten zu sichern. Als Alternative zu fes-stip.de stehen fes-ehemalige.de sowie fes-social.de zur Verfügung.
+Alle Stipis werden aufgefordert bis zur Abschaltung Ihre Daten zu sichern. Als Alternative zu fes-stip.de stehen fes-ehemalige.de sowie fes-social.de zur Verfügung. 
 
 # Wir sagen Danke!
-Das erste Konzept von einem internen, stipendiatischen Netzwerk wurde entwickelt, als die FES noch keine Arbeitskreise kannte und in Welt von Facebook oder MySpace noch nichts gehört hatte. Wir sind also einen langen weg gekommen ([Die ganze Historie](https://www.fes-ehemalige.de/verein/historie)). Während dieser Zeit haben unzählige Stipis regelmäßig Mühe in Aufbau, Pflege und Organisation rund um die Infrastruktur und die Unterseiten von fes-stip gesteckt. Für diesen Einsatz füreinander möchten wir uns  bei allen Beteiligten ganz ganz herzlich bedanken!
+Das erste Konzept von einem internen, stipendiatischen Netzwerk wurde entwickelt, als die FES noch keine Arbeitskreise kannte und in Welt von Facebook oder MySpace noch nichts gehört hatte. Wir sind also einen langen Weg gekommen ([Die ganze Geschichte gibt es hier](https://www.fes-ehemalige.de/verein/historie)). Während dieser Zeit haben unzählige Stipis regelmäßig Mühe in Aufbau, Pflege und Organisation rund um die Infrastruktur und die Unterseiten von fes-stip gesteckt. Für diesen Einsatz füreinander möchten wir uns  bei allen Beteiligten ganz ganz herzlich bedanken!
 
 # Warum abschaltung?
 Nach Diskussionen zwischen FES, AK Internet (heute AK DMN) und FES-Ehemalige e.V. zur Governance der von AK Internet und Ehemaligenverein betriebenen Plattform, hat sich die FES Anfang 2015 entschieden, ein eigenes Angebot aufzubauen, das fes-stip ablösen soll. Im Herbst 2020 ist nun mit fes-social.de das Community Portal der FES gestartet, bei dem die FES Studienförderung alleiniger Systemadministrator ist.
@@ -34,9 +34,9 @@ Wer die Zugangsdaten zu fes-stip nicht mehr parat hat, finden unten eine Anleitu
 Da fes-social für den Ehemaligenverein essentielle Funktionen, wie das Veranstaltungsmanagement, aber auch die Mitglieder und Beitragsverwaltung, nicht abdeckt, wird der Ehemaligenverein seine Website fes-ehemalige.de in bisherigem Funktionsumfang fortführen. 
 
 # Was ist mit den Mailiglisten? 
-Der AK DMN sieht die Funktionalitäten der Mailiglisten derzeit nur rudimentär mit fes-social abgedeckt. Ein Weiterbetrieb der Mailiglisten steht daher auf wackeligen Beinen. Trotzdem werden diese vorerst weiter betrieben. 
+Der AK DMN sieht die Funktionalitäten der Mailiglisten derzeit nur rudimentär mit fes-social abgedeckt. Die Mailiglisten bleiben daher derzeit notwendig, aber können perspektivisch durch fes-social abgelößt werden.
 
-Eure Mailinglisten könnt ihr zukünftig über fes-ehemalige.de verwalten (gleiche Zugangsdaten wie für fes-stip).
+Eure Mailinglisten könnt ihr zukünftig über [fes-ehemalige.de](https://www.fes-ehemalige.de/verein/historie) verwalten (gleiche Zugangsdaten wie für fes-stip).
 
 ---
 
@@ -78,13 +78,14 @@ Wenn Sie mehr über uns und unsere Projekte erfahren wollen, schauen Sie doch ma
 Mitglied werden bzw. Mitgliedsdaten verwalten
 
 ________________________________________
-An-/Abmelden aus Mailing-Listen leicht gemacht
+
+# An-/Abmelden aus Mailing-Listen leicht gemacht
 Die abonnierten Mailing-Listen können hier bequem selbst verwalten werden (auch die über fes-stip laufenden Listen). Wenn man sich beispielsweise aus Mailinglisten austragen möchte, kann man das dort selbst tun. Es gibt bei den Listen nämlich keine Moderation! 
 
 Hier geht es zur Verwaltung der Mailing-Listen-Abonnements [gleicher Login wie auf fes-stip].
 ________________________________________
-Zugangsdaten für fes-stip vergessen?
-Die beiden Websites laufen auf der EINER technischen Plattform, die vom Ehemaligenverein FES-Ehemalige e.V. betreibt wird. Für beide Websites gelten daher die gleichen Zugangsdaten (Zugangsname und Passwort). Wenn Sie sich nicht mehr an Ihren Zugangsnamen und/oder Ihr Passwort erinnern, können Sie eine Mail mit Ihrem Zugangsnamen und einem Link zum Zurücksetzen des Passworts anfordern. Die Mail wird dann automatisch und sofort an Sie verschickt.
+# Zugangsdaten für fes-stip vergessen?
+Die beiden Websites (fes-stip und fes-ehemalige) laufen auf der EINER technischen Plattform, die vom Ehemaligenverein FES-Ehemalige e.V. betreibt wird. Für beide Websites gelten daher die gleichen Zugangsdaten (Zugangsname und Passwort). Wenn Sie sich nicht mehr an Ihren Zugangsnamen und/oder Ihr Passwort erinnern, können Sie eine Mail mit Ihrem Zugangsnamen und einem Link zum Zurücksetzen des Passworts anfordern. Die Mail wird dann automatisch und sofort an Sie verschickt.
 
 Dazu einfach auf die Rücksetz-Seite gehen und dort:
 1.	„Zugangsname/Passwort vergessen“ auswählen,
@@ -99,7 +100,6 @@ Hinweis: Wenden Sie sich bitte nur dann per Mail an unsere Geschäftsstelle, wen
 nutzerbetreuung@fes-ehemalige.de
 
 
- 
 Impressum
 
 FES-Ehemalige - Initiative der ehemaligen Stipendiatinnen und Stipendiaten
