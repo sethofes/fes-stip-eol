@@ -5,7 +5,7 @@ AK DMN (vormals AK Internet) & FES-Ehemalige e.V. | fes-stip.de
 {ANREDE_INFORMELL} {FIRSTNAME} {LASTNAME},
 
 # Zusammenfassung
-**Die Website fes-stip.de wird zum 01. Juni 2021 still gelegt.**
+**Die Website fes-stip.de wird zum 01. Juni 2021 stillgelegt.**
 
 Weiterhin vollständig erhalten und in Verantwortung vom eigenständigen Verein der FES-Ehemaligen wird weiterhin fortgeführt:
 * die Website fes-ehemalige.de
@@ -17,21 +17,21 @@ Alle Stipis werden aufgefordert bis zur Abschaltung Ihre Daten zu sichern. Als A
 # Wir sagen Danke!
 Das erste Konzept von einem internen, stipendiatischen Netzwerk wurde entwickelt, als die FES noch keine Arbeitskreise kannte und in Welt von Facebook oder MySpace noch nichts gehört hatte. Wir sind also einen langen Weg gekommen ([Die ganze Geschichte gibt es hier](https://www.fes-ehemalige.de/verein/historie)). Während dieser Zeit haben unzählige Stipis regelmäßig Mühe in Aufbau, Pflege und Organisation rund um die Infrastruktur und die Unterseiten von fes-stip gesteckt. Für diesen Einsatz füreinander möchten wir uns  bei allen Beteiligten ganz ganz herzlich bedanken!
 
-# Warum abschaltung?
+# Warum Abschaltung?
 Nach Diskussionen zwischen FES, AK Internet (heute AK DMN) und FES-Ehemalige e.V. zur Governance der von AK Internet und Ehemaligenverein betriebenen Plattform, hat sich die FES Anfang 2015 entschieden, ein eigenes Angebot aufzubauen, das fes-stip ablösen soll. Im Herbst 2020 ist nun mit fes-social.de das Community Portal der FES gestartet, bei dem die FES Studienförderung alleiniger Systemadministrator ist.
 
-Im letzten Jahr hat fes-social die wichtigsten Funktionalitäten, für die fes-stip.de so wichtig für einige AKs, HSGs und Gremien war, nachgeliefert. Beide Platformen mit Inhalten zu versehen ist ein Mehraufwand für alle Stipis. Der AK DMN hat sich daher dazu entschieden fes-stip in den wohlverdienten Ruhestand zu schicken.
+Im letzten Jahr hat fes-social die wichtigsten Funktionalitäten, für die fes-stip.de so wichtig für einige AKs, HSGs und Gremien war, nachgeliefert. Beide Plattformen mit Inhalten zu versehen ist ein Mehraufwand für alle Stipis. Der AK DMN hat sich daher dazu entschieden fes-stip in den wohlverdienten Ruhestand zu schicken.
 
 # Was heißt das für mich? Sicher deine Daten!
 Alle Benutzer von fes-stip.de werden aufgerufen jegliche erhaltungswürdigen Daten zu archivieren oder auf fes-social zu übertragen. Dies umfasst zum Beispiel Texte, Dokumente und Bilder. 
 
-Besonderers HSGs, AKs, Gremien und sonstige Gruppen tragen hier die Verantwortung dass keine Historischen Daten verloren gehen. 
+Besonders HSGs, AKs, Gremien und sonstige Gruppen tragen hier die Verantwortung, dass keine Historischen Daten verloren gehen. 
 Wer die Zugangsdaten zu fes-stip nicht mehr parat hat, finden unten eine Anleitung zum Zurücksetzen der Zugangsdaten.
 
 **Deadline hierfür ist der 01.06.2021**. Danach wird fes-stip und seine Inhalte nicht mehr zugänglich sein.
 
 # Seite des Ehemaligenvereins bleibt bestehen
-Da fes-social für den Ehemaligenverein essentielle Funktionen, wie das Veranstaltungsmanagement, aber auch die Mitglieder und Beitragsverwaltung, nicht abdeckt, wird der Ehemaligenverein seine Website fes-ehemalige.de in bisherigem Funktionsumfang fortführen. 
+Da fes-social für den Ehemaligenverein essenzielle Funktionen, wie das Veranstaltungsmanagement, aber auch die Mitglieder und Beitragsverwaltung, nicht abdeckt, wird der Ehemaligenverein seine Website fes-ehemalige.de in bisherigem Funktionsumfang fortführen. 
 
 # Was ist mit den Mailiglisten? 
 Der AK DMN sieht die Funktionalitäten der Mailiglisten derzeit nur rudimentär mit fes-social abgedeckt. Die Mailiglisten bleiben daher derzeit notwendig, aber können perspektivisch durch fes-social abgelößt werden. Die Mailiglisten der Ehemaligen (...@fes-ehemalige.de) werden ohnehin darüber hinaus erhalten bleiben.
