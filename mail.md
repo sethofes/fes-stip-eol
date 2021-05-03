@@ -34,7 +34,7 @@ Wer die Zugangsdaten zu fes-stip nicht mehr parat hat, finden unten eine Anleitu
 Da fes-social für den Ehemaligenverein essentielle Funktionen, wie das Veranstaltungsmanagement, aber auch die Mitglieder und Beitragsverwaltung, nicht abdeckt, wird der Ehemaligenverein seine Website fes-ehemalige.de in bisherigem Funktionsumfang fortführen. 
 
 # Was ist mit den Mailiglisten? 
-Der AK DMN sieht die Funktionalitäten der Mailiglisten derzeit nur rudimentär mit fes-social abgedeckt. Die Mailiglisten bleiben daher derzeit notwendig, aber können perspektivisch durch fes-social abgelößt werden.
+Der AK DMN sieht die Funktionalitäten der Mailiglisten derzeit nur rudimentär mit fes-social abgedeckt. Die Mailiglisten bleiben daher derzeit notwendig, aber können perspektivisch durch fes-social abgelößt werden. Die Mailiglisten der Ehemaligen (...@fes-ehemalige.de) werden ohnehin darüber hinaus erhalten bleiben.
 
 Eure Mailinglisten könnt ihr zukünftig über [fes-ehemalige.de](https://www.fes-ehemalige.de/verein/historie) verwalten (gleiche Zugangsdaten wie für fes-stip).
 
